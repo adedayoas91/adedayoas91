@@ -3,7 +3,10 @@
 
 ## Interests
 
-## 
+## Contacts 
+[LinkedIn](https://www.linkedin.com/in/sadiq-adedayo) 
+[Twitter](https://twitter.com/adedayoas91)
+
 ## On-going activities and projects 
 
 <!--
