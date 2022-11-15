@@ -7,17 +7,19 @@ Self-motivated, knowledge-hungry, goal-driven, and passionate DevOps Engineer wi
 - Machine and Reinforcement learning (AI)
 - Causal Inference
 - Biomedical engineering
-- 
-- Manufacturing and Fabrications 
+
+> Manufacturing and Fabrications 
     Additive: 3D Modelling and 3D Printing 
     Subtractive: Machining, Arc Welding
 
 > Hobbies
-- Football (Soccer), Cycling, Swimming
+- Football (Soccer), Cycling, Swimming, Automation,
 
-## On-going activities and projects 
-
-<!--
+### On-going activities and projects 
+> My current projects include;
+- Causal structure Learning algorithm for time series datasets
+- Denoising calcium imaging data with Independent Component Analysis
+- 
 
 Here are some ideas to get you started:
 
