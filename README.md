@@ -17,7 +17,7 @@ I enjoy playing and watching football (soccer), cooking new recipes, cycling, an
     Subtractive: Machining, Arc Welding
 
 > Hobbies
-- Football (Soccer), Cycling, Swimming, Automation,
+- Football (Soccer), Cycling, Swimming, Automation.
 
 ### On-going activities and projects 
 > My current projects include;
@@ -27,4 +27,8 @@ I enjoy playing and watching football (soccer), cooking new recipes, cycling, an
 
 ### Please take your time to go through my work and I will be happy to take any sugestions and collaborate on any common interests we both might have.
 
-### Happy surfing and Thank you!
+### Thank you aas you visit again for updates!
+
+## Happy surfing!!! 
+
+# Sadiq
