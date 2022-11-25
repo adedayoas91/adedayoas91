@@ -25,9 +25,9 @@ I enjoy playing and watching football (soccer), cooking new recipes, cycling, an
 - Denoising calcium imaging data with Independent Component Analysis
 #### 🌱 I’m currently improving my knowledge in DevOps Engineering, my scope in Artificial Intelligence, specifically in Reinforcement Learning. 
 
-### Please take your time to go through my work and I will be happy to take any sugestions and collaborate on any common interests we both might have.
+> Please take your time to go through my work and I will be happy to take any sugestions and collaborate on any common interests we both might have.
 
-### Thank you aas you visit again for updates!
+#### Thank you aas you visit again for updates!
 
 ## Happy surfing!!! 
 
