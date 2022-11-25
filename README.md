@@ -1,6 +1,6 @@
 # Hi there 👋
-## Short Bio
-Self-motivated, knowledge-hungry, goal-driven, and passionate DevOps Engineer with a drive for excellence. 
+### About me
+I like to describe myself as a self-motivated, knowledge-hungry, goal-driven, and passionate DevOps Engineer with a drive for excellence. 
 I am currently a doctoral candidate researching in Neuroinformatics, Faculty of Computer Science of University of Vienna. My background is in Mechanical Engineering (Bachelors) and Biomedical Engineering (Masters). I am very passionate about information technology (IT) and Machine Learning (ML) and Artificial Intelligence (AI).
 I am comfortable handling tasks alone and just as effective in team(s). I learn best via challenges. I have an eye for detail and enjoy problem-solving using proven solutions to real-life problems. Adapts and excel with challenges and changes, as apparent from my career path, and have chosen to explore the world of IT (DevOps) after some years in research. When not working or learning, 
 
