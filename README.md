@@ -30,8 +30,8 @@ I enjoy playing and watching football (soccer), cooking new recipes, cycling, an
 
 > Please take your time to go through my work and I will be happy to take any sugestions and collaborate on any common interests we both might have.
 
-#### Thank you as you visit again for updates!
+> Thank you as you visit again for updates!
 
-## Happy surfing🤗!!! 
+### Happy surfing🤗!!! 
 
 # Sadiq :)
