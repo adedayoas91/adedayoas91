@@ -12,7 +12,7 @@ I enjoy playing and watching football (soccer), cooking new recipes, cycling, an
 > Research Interests: 
 - DevOps ♾️
 - Machine and Reinforcement learning (AI) 👨‍💻💻👾
-- Causal Inference 🅰️ ➡️ 🅱️
+- Causal Inference 🅰️ ➡️ 🅱️ but 🅱️❗️➡️ 🅰️
 - Biomedical engineering 🩺💀🔧🪛⚕️
 
 > Manufacturing and Fabrications 
