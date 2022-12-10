@@ -16,8 +16,8 @@ I enjoy playing and watching football (soccer), cooking new recipes, cycling, an
 - Biomedical engineering 🩺💀🔧🪛⚕️
 
 > Manufacturing and Fabrications 
-    Additive: 3D Modelling and 3D Printing 3️⃣D 🖨
-    Subtractive: Machining, Arc Welding 🥽🛠
+-  Additive: 3D Modelling and 3D Printing 3️⃣D 🖨
+-  Subtractive: Machining, Arc Welding 🥽🛠
 
 > Hobbies
 - Football (Soccer)⚽️, Cycling🚵‍♂️, Swimming🏊‍♀️, Automation🏧👾.
