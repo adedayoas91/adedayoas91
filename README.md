@@ -21,7 +21,7 @@ I enjoy playing and watching football (soccer), cooking new recipes, cycling, an
 -  Subtractive: Machining, Arc Welding 🥽🛠
 
 > Hobbies
-- Football (Soccer)⚽️, Cycling🚵‍♂️, Swimming🏊‍♀️, Automation🏧👾.
+- Football (Soccer)⚽️, BasketBall, Cycling🚵‍♂️, Swimming🏊‍♀️, Automation🏧👾.
 
 ### On-going activities and projects 
 > My current projects include;
