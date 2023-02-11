@@ -18,7 +18,8 @@ I enjoy playing and watching football (soccer), cooking new recipes, cycling, an
 
 > Manufacturing and Fabrications 
 -  Additive: 3D Modelling and 3D Printing 3️⃣D 🖨
--  Subtractive: Machining, Arc Welding 🥽🛠
+-  Machining: Turning, drilling, cutting 
+-  Arc Welding 🥽🛠
 
 > Hobbies
 - Football (Soccer)⚽️, BasketBall, Cycling🚵‍♂️, Swimming🏊‍♀️, Automation🏧👾
