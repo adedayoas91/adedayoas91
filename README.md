@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### About me
-I like to describe myself as a self-motivated, knowledge-hungry, goal-driven, and passionate MultiCloud DevOps Engineer with a drive for excellence. That might sound overwhelming😅, trust me, I know!🫣. However, I hope I can make you see that over the next few lines of this write-up🤗). 
+I describe myself as a self-motivated, goal-driven, and passionate MultiCloud DevOps Engineer. That might sound overwhelming😅, trust me, I know!🫣. However, I hope I can shed light on that over the next few lines of this write-up🤗). 
 
 🏃‍♂️ I am currently pursuing a doctoral degree at the Faculty of Computer Science of University of Vienna. I am researching at the intersection of Machine Learning, Statistics (Causal Inference), Signal processing, and Neuroscience 
 
